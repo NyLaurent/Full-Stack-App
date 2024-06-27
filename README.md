@@ -1,9 +1,14 @@
 Task Lisk Built it with
 
 Node.js
+
 Express.js
+
+
 MongoDB
+
 React.js
+
 Quick start
 To start development locally to the following
 
